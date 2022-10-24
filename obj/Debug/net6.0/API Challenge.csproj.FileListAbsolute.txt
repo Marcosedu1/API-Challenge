@@ -1,0 +1,27 @@
+C:\Users\Marcos Eduardo\Documents\Projects\API Challenge\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Marcos Eduardo\Documents\Projects\API Challenge\bin\Debug\net6.0\appsettings.json
+C:\Users\Marcos Eduardo\Documents\Projects\API Challenge\bin\Debug\net6.0\API Challenge.exe
+C:\Users\Marcos Eduardo\Documents\Projects\API Challenge\bin\Debug\net6.0\API Challenge.deps.json
+C:\Users\Marcos Eduardo\Documents\Projects\API Challenge\bin\Debug\net6.0\API Challenge.runtimeconfig.json
+C:\Users\Marcos Eduardo\Documents\Projects\API Challenge\bin\Debug\net6.0\API Challenge.dll
+C:\Users\Marcos Eduardo\Documents\Projects\API Challenge\bin\Debug\net6.0\API Challenge.pdb
+C:\Users\Marcos Eduardo\Documents\Projects\API Challenge\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Marcos Eduardo\Documents\Projects\API Challenge\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Marcos Eduardo\Documents\Projects\API Challenge\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Marcos Eduardo\Documents\Projects\API Challenge\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Marcos Eduardo\Documents\Projects\API Challenge\obj\Debug\net6.0\API Challenge.csproj.AssemblyReference.cache
+C:\Users\Marcos Eduardo\Documents\Projects\API Challenge\obj\Debug\net6.0\API Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos Eduardo\Documents\Projects\API Challenge\obj\Debug\net6.0\API Challenge.AssemblyInfoInputs.cache
+C:\Users\Marcos Eduardo\Documents\Projects\API Challenge\obj\Debug\net6.0\API Challenge.AssemblyInfo.cs
+C:\Users\Marcos Eduardo\Documents\Projects\API Challenge\obj\Debug\net6.0\API Challenge.csproj.CoreCompileInputs.cache
+C:\Users\Marcos Eduardo\Documents\Projects\API Challenge\obj\Debug\net6.0\API Challenge.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Marcos Eduardo\Documents\Projects\API Challenge\obj\Debug\net6.0\API Challenge.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Marcos Eduardo\Documents\Projects\API Challenge\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Marcos Eduardo\Documents\Projects\API Challenge\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Marcos Eduardo\Documents\Projects\API Challenge\obj\Debug\net6.0\scopedcss\bundle\API Challenge.styles.css
+C:\Users\Marcos Eduardo\Documents\Projects\API Challenge\obj\Debug\net6.0\API Challenge.csproj.CopyComplete
+C:\Users\Marcos Eduardo\Documents\Projects\API Challenge\obj\Debug\net6.0\API Challenge.dll
+C:\Users\Marcos Eduardo\Documents\Projects\API Challenge\obj\Debug\net6.0\refint\API Challenge.dll
+C:\Users\Marcos Eduardo\Documents\Projects\API Challenge\obj\Debug\net6.0\API Challenge.pdb
+C:\Users\Marcos Eduardo\Documents\Projects\API Challenge\obj\Debug\net6.0\API Challenge.genruntimeconfig.cache
+C:\Users\Marcos Eduardo\Documents\Projects\API Challenge\obj\Debug\net6.0\ref\API Challenge.dll
